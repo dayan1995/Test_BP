@@ -2,7 +2,7 @@ Tener instalado node.js
 Tener instlado npm
 Tener instalado visual studio
 Ir a la ruta del proyecto prueba técnica dayan cherrez 
-C:..\..\..\Test_Cypress\TestAutomation
+C:..\..\..\Test_PB\TestAutomation
 Tener instalado cypress
 Ejecutar esta linea de comando npx cypress open
 Se abrira una ventana seleccionar E2E
@@ -14,7 +14,7 @@ Prueba_Automatización_E2E.cy.js
 Prueba_API.cy
 
 En la siguiente ruta se encuntra un archivo html con los resultados de la pruebas ejecutada mediante linea comando:
-C:\...\...\...\Test_Cypress\TestAutomation\cypress\reports
+C:\...\...\...\Test_PB\TestAutomation\cypress\reports
 Si se desea probar por linea de comando ejecutar : npx cypress run
 
 Observacion
