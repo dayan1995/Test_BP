@@ -19,4 +19,4 @@ En la siguiente ruta se encuntra un archivo html con los resultados de la prueba
 
 Si se desea probar por linea de comando ejecutar : npx cypress run
 Repositorio
-https://github.com/dayan1995/TestAutomation2025
+https://github.com/dayan1995/Test_BP/edit/Master/TestAutomation/
