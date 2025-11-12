@@ -18,7 +18,7 @@ ESCENARIO:
 - 20 usuarios virtuales (threads)
 - 1 segundo de ramp-up
 - 400 iteraciones
-- 20 TPS promedio
+- 67,8 TPS promedio
 
 VALIDACIONES:
 - Tiempo máximo de respuesta: 1.5 segundos
